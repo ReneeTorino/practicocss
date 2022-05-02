@@ -1,0 +1,60 @@
+* {margin-bottom: auto;padding-bottom: auto;
+   font-family: helvetica}
+
+
+body
+{background-image: url(imagenes/guarda.png);
+background-color: #DDB26E;
+background-attachment: fixed;
+background-position: right;
+background-repeat: repeat-y;
+padding: 50px}
+
+.audio {float: right;
+text-align: right;}
+
+header {margin-right: 400px;}
+
+.encabezado {margin-left: 400px}
+
+.titulo {
+font-family: orange juice;
+color: #50360C;
+font-weight: bolder;
+font-size: 80px;
+background-color: #C25B2B;
+text-align: center;}
+
+.destacado {color: #5C3C08;
+  background-color: #E68A5F;
+margin-right: 400px;
+border-style: solid;
+border-radius: 5px;
+text-align: center;
+margin-top: 10px}
+
+.importante {color: white;
+  background-color:#50360C;
+margin-right: 400px;
+text-align-last: center;}
+
+.texto {margin-right: 400px;
+font-weight: bolder;
+text-align-last: center;}
+
+
+.dato {font-weight: lighter;font-size: 15px;}
+
+
+ol {margin-right: 700px;
+background-color: #C2872B;}
+
+h2 {font-size: 10px;
+    font-variant: small-caps;}
+
+h3 {font-size: 20px;
+  font-variant: small-caps;}
+
+p {margin-right: 400px}
+
+.negrita {font-weight: bold;text-align: justify;}
